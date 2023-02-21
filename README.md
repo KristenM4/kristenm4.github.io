@@ -1,3 +1,1 @@
-Page Under Construction! 
-Coming March 2023
-# kristenm4.github.io
+This will be a page where I list my personal projects. These projects will be web applications and REST APIs, primarily using the ASP.NET and Django frameworks. 

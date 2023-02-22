@@ -1,8 +1,3 @@
-## Contact Details
-[kristen@email.com](http://google.com) - [LinkedIn](http://linkedin.com)
-
----
-
 # My Personal Projects
 Disclaimer: These are just placeholders, the final projects will be different from what is listed here.
 ## **Project 1 - [Github Link](github.com)**
@@ -14,3 +9,8 @@ An ASP.NET web application which handles data for a fictional cleaning service. 
 ## **Project 3 - [Github Link](github.com)**
 #### Made with: C#, ASP.NET, MySQL
 Another project showcasing skills with ASP.NET. This project will also create a flexible REST API which can return different data formats.
+
+---
+
+## Contact Info
+[kristen@email.com](http://google.com) - [LinkedIn](http://linkedin.com)

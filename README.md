@@ -1,6 +1,5 @@
-This will be a page where I list my personal projects. These projects will be web applications and REST APIs, primarily using the ASP.NET and Django frameworks. 
 ## Contact Details
-[kristen@email.com](google.com) - [LinkedIn](http://linkedin.com)
+[kristen@email.com](http://google.com) - [LinkedIn](http://linkedin.com)
 
 ---
 

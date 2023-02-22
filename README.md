@@ -12,5 +12,5 @@ A web application made with Python's Django framework that connects to a SQLite 
 #### Made with: C#, ASP.NET, .csv file
 An ASP.NET web application which handles data for a fictional cleaning service. The interface allows the user to view and manipulate data regarding employees, company vehicles, and supplies. 
 ## **Project 3 - [Github Link](github.com)**
-#### Made with: C#, ASP.NET, mySQL
+#### Made with: C#, ASP.NET, MySQL
 Another project showcasing skills with ASP.NET. This project will also create a flexible REST API which can return different data formats.

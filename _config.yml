@@ -2,4 +2,4 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: Kristen's Project Portfolio
-description: This page is currently under construction. Check back in March 2023!
+description: This will be a page where I post my personal projects. This page is currently under construction. Check back in April 2023!

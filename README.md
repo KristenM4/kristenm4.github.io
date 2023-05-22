@@ -1,5 +1,5 @@
 # My Personal Projects
-## **Project 1 - [Github Link](https://github.com/KristenM4/Django-Online-Shop)**
+## **Django Online Store: _The Sea Wolf Surf & Dive Shop_ - [Github Link](https://github.com/KristenM4/Django-Online-Shop)**
 #### Made with: Python, Django, PostgreSQL
 A web application made with Python's Django framework that connects to a PostgreSQL database. It simulates a digital storefront, with products, user accounts, and payment authentication.
 ## **Project 2 - [Github Link](github.com)**
